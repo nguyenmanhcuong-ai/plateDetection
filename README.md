@@ -1,7 +1,6 @@
 ## Demo
 
-https://github.com/nguyenmanhcuong-ai/plateDetection/0321.mp4
-
+https://github.com/nguyenmanhcuong-ai/plateDetection/blob/main/0321.mp4
 
 ## Project Setup
 
