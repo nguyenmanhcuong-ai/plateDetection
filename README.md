@@ -1,6 +1,6 @@
 ## Demo
 
-[![Watch Video](https://img.shields.io/badge/Watch-Video-red)](https://drive.google.com/uc?id=1V1HZ-9m40LBm1y44vWgTwkpRciMvZSVk)
+<iframe src="https://drive.google.com/file/d/1V1HZ-9m40LBm1y44vWgTwkpRciMvZSVk/preview" width="640" height="360" allow="autoplay"></iframe>
 
 
 ## Project Setup
