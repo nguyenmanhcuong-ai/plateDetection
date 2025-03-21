@@ -1,6 +1,9 @@
 ## Demo
 
-https://github.com/nguyenmanhcuong-ai/plateDetection/blob/main/0321.mp4
+<video width="100%" controls>
+  <source src="https://github.com/nguyenmanhcuong-ai/plateDetection/blob/main/0321.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Project Setup
 
